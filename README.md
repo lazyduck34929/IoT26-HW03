@@ -3,7 +3,7 @@ Repository for documenting 'Introduction to the Internet of Things HW03'
 
 HW 3: Raspberry Pi Motion Detector with Photo Capture
 
-Screenshot of RPI IDE
+Code
 <img width="3162" height="1922" alt="hw3 ide1" src="https://github.com/user-attachments/assets/fb863e92-c00a-44f2-9e5f-a111b47f61ff" />
 
 
