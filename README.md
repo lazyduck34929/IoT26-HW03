@@ -17,3 +17,12 @@ Kernel screenshot showing a running program
 GIF of result
 
 <img width="400" height="225" alt="Image" src="https://github.com/user-attachments/assets/1dfd2a67-47fa-42b5-a0ee-1db5492baf3b" />
+
+
+
+
+Photo taken by the camera module
+<img width="2592" height="1944" alt="hw3 result" src="https://github.com/user-attachments/assets/4b80b9c9-b9aa-4413-8dad-ffdf7af4749f" />
+
+
+
