@@ -8,8 +8,12 @@ Screenshot of RPI IDE
 
 
 
+
+
 Kernel screenshot showing a running program
 <img width="1692" height="1922" alt="hw3 ide2" src="https://github.com/user-attachments/assets/6ab85cbf-c9d3-4abf-b627-df569c23649e" />
+
+
 
 
 
@@ -17,6 +21,8 @@ Kernel screenshot showing a running program
 GIF of result
 
 <img width="400" height="225" alt="Image" src="https://github.com/user-attachments/assets/1dfd2a67-47fa-42b5-a0ee-1db5492baf3b" />
+
+
 
 
 
